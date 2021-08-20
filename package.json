@@ -1,0 +1,19 @@
+{
+  "name": "cine-vs-streaming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrisMoralesZ/Cine-vs-Streaming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrisMoralesZ/Cine-vs-Streaming/issues"
+  },
+  "homepage": "https://github.com/KrisMoralesZ/Cine-vs-Streaming#readme"
+}
