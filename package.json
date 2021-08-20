@@ -1,7 +1,7 @@
 {
   "name": "cine-vs-streaming",
   "version": "1.0.0",
-  "description": "",
+  "description": "Comparacion entre el precio de ir al cine contra cuantas plataformas de streaming pagamos mensualmente",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/KrisMoralesZ/Cine-vs-Streaming.git"
   },
-  "author": "",
+  "author": "Kristopher Morales Zamudio",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KrisMoralesZ/Cine-vs-Streaming/issues"
