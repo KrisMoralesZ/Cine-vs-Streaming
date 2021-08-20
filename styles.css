@@ -1,0 +1,8 @@
+body{
+    background-color:#00FFFF;
+}
+.formulario{
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+}
