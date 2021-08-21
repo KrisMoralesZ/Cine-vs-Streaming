@@ -1,8 +1,19 @@
 body{
-    background-color:#00FFFF;
+    background-color:#d1d8d8;
+}
+.Header{
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+}
+.Section{
+    display: flex;
+    justify-content: center;
+    justify-self: center;
 }
 .formulario{
     display: flex;
     justify-content: center;
     justify-self: center;
+
 }
